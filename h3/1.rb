@@ -1,3 +1,8 @@
+=begin
+					ТУЕС (Технологично училище Електронни системи към ТУ София)
+										http://www.elsys-bg.org/
+=end									
+
 require "csv"
 
 def process_file_with_csv	
